@@ -74,8 +74,8 @@
             ],
             "components": {
                 "children": [
-                    "video screen.27530892-69d9-4969-a0e6-d69d1b97f453",
-                    "photo screen.e514d626-1a00-48b1-929a-73676ea16481"
+                    "photo screen.e514d626-1a00-48b1-929a-73676ea16481",
+                    "video screen.27530892-69d9-4969-a0e6-d69d1b97f453"
                 ]
             },
             "figmaComponents": {},
@@ -115,7 +115,7 @@
                     "ios": {
                         "usageDescriptions": {
                             "NSCameraUsageDescription": "",
-                            "NSMicrophoneUsageDescription": ""
+                            "NSPhotoLibraryUsageDescription": ""
                         }
                     }
                 },
@@ -164,7 +164,7 @@
                     "ios": {
                         "usageDescriptions": {
                             "NSCameraUsageDescription": "",
-                            "NSMicrophoneUsageDescription": ""
+                            "NSPhotoLibraryUsageDescription": ""
                         }
                     }
                 },
@@ -189,7 +189,7 @@
             "customProperties": [],
             "modules": [],
             "usesDragDropUi": true,
-            "totalCopy": "2",
+            "totalCopy": "0",
             "totalStar": "0",
             "starAction": "star",
             "variables": {},
